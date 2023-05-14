@@ -1,7 +1,7 @@
 # Twiddle
 Twiddle is a microblogging platform where people communicate in short messages called tweets. Tweeting is posting short messages for anyone who follows you on Twiddle, with the hope that your words are useful and interesting to someone in your audience.
 
-## Solution Architecture
+## Solution Overview
 Here's a breakdown of the Twiddle Application modules and functionality that it covers in each module of a Spring Boot based Maven project:
 
 ### Core Module:
